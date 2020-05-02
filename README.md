@@ -20,3 +20,6 @@ COVID-19 can be used to view the covid-19 data on map. It can show death and con
 2. Add key to "\covid19-app-chijunyou\android\app\src\debug\AndroidManifest.xml"
 3. Navigate into the file "/covid19-app-chijunyou".
 4. Type `npx react-native run-android` 
+
+## Picture and result
+in /picture and video folder, there are result for steps and a video for app 
