@@ -11,10 +11,12 @@ COVID-19 can be used to view the covid-19 data on map. It can show death and con
 
 ## prerequest
 1.React Native
-2.A 
+2.An android simulator or an android phone
+3.An api key for google map
   
  
 ## How to Run This Code
-1. Fire up your local terminal and type `git clone https://github.com/BUEC500C1/codvid-app-eet1998.git`. 
-2. Navigate to the `/covidapp` directory.
-3. Type `expo start` to run the app.
+1. Fire up your local terminal and type `git clone https://github.com/BUEC500C1/covid19-app-chijunyou.git`. 
+2. Add key to "\covid19-app-chijunyou\android\app\src\debug\AndroidManifest.xml"
+3. Navigate into the file "/covid19-app-chijunyou".
+4. Type `npx react-native run-android` 
